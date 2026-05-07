@@ -1,0 +1,8 @@
+# Contoh redirect clickbait
+/rahasia-kulit-glowing-murah-banget     https://shopee.co.id/affiliate-link-kamu-disini   301!
+/berita-viral-tiktok-hari-ini    https://shopee.co.id/affiliate-link-kamu-disini   301!
+/video-skandal-viral-2026          https://shopee.co.id/affiliate-link-kamu-disini   301!
+/promo-belanja-murah-hari-ini             https://shopee.co.id/affiliate-link-kamu-disini   301!
+
+# Kalau mau root juga redirect (opsional)
+/    https://shopee.co.id/affiliate-link-kamu-disini   301!
